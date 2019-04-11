@@ -1,6 +1,7 @@
 # Carecusoft API Preview Integration Template 1
 ## Installation
 The key you used when creating a query.  <a href="https://api.carecusoft.com/en/payment">GET KEY</a>
+### Header Tag 
 ```html
     <meta name="cst-api-key" content="testSA65D46ASD4AS8F4AS6F4A68"/>
 ```
